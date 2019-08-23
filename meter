@@ -1,0 +1,15 @@
+<!DOCTYPY html>
+<html>
+<body>
+
+<p>Display a gauge:</p>
+<meter value="2" min="0" max="10">2 out of 10</meter><br>
+<meter value="0.6">60%</meter><br>
+<meter low="69" min="0" max="100" value="70"></meter><br>
+<meter low="69" min="80" min="0" max="100" value="81"></meter><br>
+<p><strong>Nota:</strong> The &lt;meter&gt; tag is not suppoted in Internet Explorer, Edge 12, Safari 5 and earlier versions.</p>
+
+<p><strong>
+
+</body>
+</html>
