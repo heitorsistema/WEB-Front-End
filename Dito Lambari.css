@@ -1,0 +1,98 @@
+*{margin:0; padding: 0; border: 0}
+body{
+    background-image: url(lambari_frito.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    font-family: 'Indie Flower', cursive;
+    color: white;
+    background-color: #d8da3d;
+}
+ul.navbar{
+    position:absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em;
+}
+h1{
+    font: italic bold 34px/24px Arial, Helvetica, sams-serif;
+}
+.t{
+    color: brown;
+}
+hgroup{
+    text-align: center;
+}
+nav ul li{
+    padding: 15px;
+    background-color: grey;
+    border: solid 2px white;
+    border-radius: 10px;
+    list-style-type: none;
+    color: white;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav{ 
+    text-align: center;
+    position: absolute;
+    left: 50px;
+    top: 100px;
+}
+.sobre{
+    background-color: lightgrey;
+    width: 500px;
+    border: 25px solid grey;
+    paddin: 25px;
+    margin: 25px;
+    height: 320px;
+    font-size: 150%;
+    position: absolute;
+    left: 400px;
+    top: 150px;
+}
+.img1{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 300px;
+    top: 20px;
+    font-size: 20px;
+}
+.img2{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 900px;
+    bottom: 20px;
+    font-size: 20px;
+}
+.img3{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 300px;
+    bottom: 20px;
+    font-size: 20px;
+}
+.img4{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 900px;
+    bottom: 430px;
+    font-size: 20px;
+}
+.form{
+    background-color: lightgrey;
+    width: 500px;
+    border: 25px solid grey;
+    padding: 25px;
+    margin: 25px;
+    height: 320px;
+    font-size: 150%;
+    position: absolute;
+    left: 400px;
+    top: 150px;
+}
