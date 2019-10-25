@@ -44,7 +44,7 @@ nav{
 form input{
     font: italic bold 25px/20px Arial, Helvetica;
 }
-div h3{
+div.sobre{
     background-color: lightgrey;
     width: 500px;
     border: 25px solid grey;
