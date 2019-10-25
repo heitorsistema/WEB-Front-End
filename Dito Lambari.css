@@ -7,20 +7,21 @@ body{
     color: white;
     background-color: #d8da3d;
 }
-ul.navbar{
+hgroup{
+    text-align: center;
+}
+hgroup h1{
+    color: brown;
+    font: italic bold 34px/24px Arial, Helvetica, sams-serif;
+}
+hgroup h2{
+    color: black
+}
+nav ul{
     position:absolute;
     top: 2em;
     left: 1em;
     width: 9em;
-}
-h1{
-    font: italic bold 34px/24px Arial, Helvetica, sams-serif;
-}
-.t{
-    color: brown;
-}
-hgroup{
-    text-align: center;
 }
 nav ul li{
     padding: 15px;
@@ -40,17 +41,24 @@ nav{
     left: 50px;
     top: 100px;
 }
-.sobre{
+form input{
+    font: italic bold 25px/20px Arial, Helvetica;
+}
+div h3{
     background-color: lightgrey;
     width: 500px;
     border: 25px solid grey;
-    paddin: 25px;
+    padding: 25px;
     margin: 25px;
-    height: 320px;
+    height: 350px;
     font-size: 150%;
     position: absolute;
     left: 400px;
     top: 150px;
+    color: white;
+}
+.corrente{
+    color: white;
 }
 .img1{
     width: 300px;
